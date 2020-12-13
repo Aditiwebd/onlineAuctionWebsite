@@ -1,2 +1,2 @@
-# onlineAuctionWebsite
+# OnlineAuctionWebsite
 ## Auctions are safe
